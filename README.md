@@ -1,5 +1,5 @@
-# qiime2_mdiv.md
-qiime2 amplion基础分析流程：包括降噪、生成特征表、物种注释、树、稀释曲线、a/b多样性
+# qiime2_mdiv
+本文档适用于qiime2 amplion基础分析流程：包括降噪、生成特征表、物种注释、树、稀释曲线、a/b多样性
 
 ## 参考教程：
 - https://amplicon-docs.qiime2.org/en/stable/tutorials/moving-pictures/
